@@ -1,17 +1,17 @@
-#Desafio Compass
-Giovanni Stanzione
+##Desafio Compass
+#Giovanni Stanzione
 
-tecnologias utilizadas:
--React
--React-Router-Dom
--Axios
--Styled-Components
--React-icons
+#tecnologias utilizadas:
+ -React
+ -React-Router-Dom
+ -Axios
+ -Styled-Components
+ -React-icons
 
-use npm install para instalar as dependencias necessarias e npm start pra iniciar.
+# Use `npm install` para instalar as dependencias necessarias e `npm start` pra iniciar.
 
-Digitando um nome de usuario do github na caixa de pesquisa,
-o aplicativo web mostrará os detalhes da conta em questão, os repositórios dac conta e os repositórios favoritos.
+# Digitando um nome de usuario do github na caixa de pesquisa,
+o aplicativo web mostrará os detalhes da conta em questão, os repositórios da conta e os repositórios favoritos.
 
 
 
